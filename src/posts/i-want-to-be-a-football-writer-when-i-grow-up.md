@@ -1,9 +1,8 @@
 ---
 title: 'I Want To Be A Football Writer When I Grow Up'
 description: 'Alan looks back on his experience as a wannabe football writer, making the dream come true, then letting it go.'
-permalink: posts/{{ title | slug }}/index.html
 date: '2018-08-09'
-tags: ['writing','football']
+tags: ['football']
 ---
 
 ![The FIFA World Cup trophy being help up](/images/world-cup.jpg)
@@ -20,7 +19,7 @@ This was during the '80s and '90s which was very much pre-internet days.
 
 No forums, no message-boards, no Twitter, no Facebook. If you wanted football news (and which self-respecting football mad kid didn't?), you had two choices.
 
-### 1) The internet - before the internet
+### The internet - before the internet
 
 First was Ceefax and Teletext. (For the younger reader, these were like the internet - on your telly). Short news articles would keep you up to date with general goings on. But best of all was the page of one liner adverts for the Clubcall and Teamtalk phone-lines.
 
@@ -32,7 +31,7 @@ I had no chance of getting sign off from my folks to actually phone them. So I h
 
 Something similar to the way we check our phones for transfer gossip and news these days so it definitely foreshadowed that kind of addictive behaviour. **It was a simpler time.**
 
-### 2) The daily rags
+### The daily rags
 
 The second source was the **tabloid newspapers** which, in my case, was The Sun. They had interviews, columns with big name former players and managers and, best of all, transfer gossip. What really piqued my interest in becoming a football writer was the Goals supplement in Monday's paper. The traditional round-up of match reports of all of the weekend's games.
 

@@ -6,6 +6,12 @@ layout: base.njk
   <header class="post__header">
     <h1>{{ title }}</h1>
     <div class="post__details">
+    Written by: Alan Hylands
+    <span> | </span>
+      <time datetime="{{ page.date | htmlDateString }}">
+      Published: {{ page.date | readableDate }}
+      </time>
+      <span> | </span>
       <span>{{ content | readingTime }} read</span>
     </div>
   </header>

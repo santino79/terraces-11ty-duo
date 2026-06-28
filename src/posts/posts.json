@@ -1,4 +1,5 @@
 {
-  "layout": "post",
-  "tags": ["posts"]
-}
+    "layout": "post",
+    "tags": ["posts"],
+    "permalink": "/{{ title | slug }}/index.html"
+  }

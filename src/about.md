@@ -1,53 +1,39 @@
 ---
-title: About Alan Hylands
+title: About On The Terraces
 layout: about.njk
-name: Alan Hylands
-image: '/images/20181014_P1_1_300x300.jpg'
+name: On The Terraces
+image: '/images/adidas-azteca-football-mexico-86.png'
 ---
 
-## Who I am.
+### This is a website about football history, heritage, nostalgia, and culture from across the globe.
 
-My name is Alan Hylands and I am a data analyst and writer from Northern Ireland.
+Don't worry, I know what you are thinking. I'm probably thinking the same thing myself.
 
-## What I'm doing now.
+Namely, oh God, not another middle-aged man talking about football from back in his  day, and his dad's day, AND his grandad's day. That's just what the internet has been crying out for.
 
-![Zapier logo image](https://images.ctfassets.net/lzny33ho1g45/7sYLMymQDinPKZQS77P4BX/9545150792946dbb3c3d48f0fd18b55a/Zapier_logo.jpg?w=1520&fm=jpg&q=30&fit=thumb&h=760)
+And you'd be right, but I'm going to do it anyway and here's why.
 
-I joined [Zapier](https://zapier.com) in early 2020, and am currently a **Staff Data Scientist**.
+About twenty years ago I found myself wanting to scratch a particular itch to be a football writer. I had opinions, occasional good ones, many not so good, and I wanted a way to get those out into the world. So I started a blog, as was the new custom at the time.
 
-## What I've done.
+And it grew, and other people joined and wrote about football alongside me, and all was good. Then I got greedy and took on some paid football writing jobs, like being a World Soccer Editor on About.com for the New York Times Company and then it became a job. The fun departed, the money wasn't worth it, and I hung up my boots and left the "industry". (Read about it all in my article "[I Want To Be A Football Writer When I Grow Up](/posts/i-want-to-be-a-football-writer-when-i-grow-up/)")
 
-I've worked in tech, data and analytics for the past 20+ years - building, reporting, analysing, managing, and mentoring.
+After that I drifted like a washed up 1970s superstar from gig to gig, forum to forum, social media site to social media site, trying to find a reason to ever sit down and write about football again.
 
-I've covered tech, financial services, healthcare, and e-commerce, and have led successful data projects in areas such as exploratory data analysis, customer segmentation and profiling, and customer lifetime value modelling.
+More recently I've been getting more of a buzz from football nostalgia, reading newsletters and listening to podcasts that look back at days gone by, the stories, the players, the clubs, the history that made football the most loved sport in the world.
 
-## A little more background.
+And I realised that's where I want to get involved again. 
 
-I studied Accounting at university and planned for a future in finance.
+I'll follow the latest transfer gossip as much as the next modern fan. I'll watch the games on TV and spend a fortune flying the family to London to go to a world class arena to watch the Premier League. But I don't want to write about it too much.
 
-Then I found the internet, programming, and databases.
+I want to explore the history and the myths, not the latest media-trained-to-within-an-inch-of-their-lives utterings from today's players and coaches. The future isn't written yet, but maybe there's a lot more we can find out and enjoy about the past to help us remember why we fell in love with this infuriating game in the first place.
 
-I started my first e-commerce development agency in 2003. Since then I have worked on a number of small business start-ups in e-commerce, analytics, marketing, online research, and content marketing.
-   
-I started a successful football website which gave me the opportunity to write professionally for the New York Times Company. (Want to find out how that came about? Check out my [I Want To Be A Football Writer When I Grow Up](/posts/i-want-to-be-a-football-writer-when-i-grow-up/) essay.)
+_**I'm Alan, welcome to On The Terraces.**_
 
-Quite unexpectedly, I was seduced into the corporate world of banking and financial services in the boom-time mid-noughties.
+## Who am I?
 
-I spent over twelve years running Data and Analytics projects for a large UK and Ireland banking group. I worked my way up through the ranks, from senior data analyst to senior analytics manager to Head of Retail Commercial Excellence.
+My name is [Alan Hylands](https://alanhylands.com/). I'm a football fan and writer from Northern Ireland. I have been a World Soccer editor for About.com and The New York Times Company, and have contributed to several other football websites over the years.
 
-Then I decided that I'd had enough of management and wanted to get back into doing what I love best - **digging into data and telling stories about what I find**.
-
-And that's what brought me to [Zapier](https://zapier.com).
-
-## Anything else?
-
-I also write [data articles](https://analystsassemble.com/articles/) to help folks become better data analysts, and I help them get started learning SQL with my online [SQL Crash Course](https://sqlcrashcourse.com). 
-
-## Where you can find me.
-
-You can contact by:
+You can contact me by:
 
 - email (alan AT alanhylands DOT com)
-- or take a chance on social media where I (very) occasionally post on [Bluesky](https://bsky.app/profile/alanhylands.com) or [LinkedIn](https://linkedin.com/in/alanhylands).    
-
-
+- or on [Bluesky](https://bsky.app/profile/alanhylands.com)

@@ -1,24 +1,24 @@
 ---
 layout: home
-title: 'Alan Hylands'
+title: 'On The Terraces'
 ---
 
-# Data Analyst and Writer from Northern Ireland
+# Football Nostalgia isn't what it used to be
 
-Currently I'm a Staff Data Scientist at Zapier.
+![Maradona Argentina vs Belgium 1986](/images/Argentina_v_belgica_1986.jpg)
 
-I [write articles](https://analystsassemble.com/articles/) to help folks become better data analysts at [Analysts Assemble](https://analystsassemble.com).
+We're all used to hearing how football was better back in the old days.
 
-And help them learn SQL with my online [SQL Crash Course](https://sqlcrashcourse.com).
+Standing on the terraces. No prawn sandwich brigade.
 
-I have been a <a href="/posts/i-want-to-be-a-football-writer-when-i-grow-up/">World Soccer editor</a> for About.com 
-and The New York Times Company, 
-and had articles published in <a href="https://medium.com/data-science/becoming-an-analytics-manager-isnt-a-promotion-c3f65bbd0d95">Towards Data Science</a>
-and <a href="https://hackernoon.com/fewer-dashboards-more-analysis-63581970672c">Hacker Noon</a>.
+Jumpers for goalposts, and kicking a rolled up pair of socks against a wall for two hours to improve your cultured left foot.
 
-You can read some of my <a href="/writing/">selected writing</a> here.
+### But what if it's all true, what if the best days really are behind us?
 
+The players we only seen once every four years at the World Cup. The mystery of foreign clubs. Your Dynamo Kievs, your Estudiantes.
 
-## Want to know more?
+The romance, the legends, the myths, the history. The reasons we all became football fans in the first place.
 
-See my <a href="/about/">About</a> page for some backstory, and where else you can find or contact me.
+Every once in a while I'll be exploring a topic from football's yesteryear, and trying to remind us what got us hooked in the first place.
+
+Check out the [Articles](/articles/) section and let's get started.

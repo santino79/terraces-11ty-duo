@@ -27,6 +27,11 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addPlugin(pluginRss);
   eleventyConfig.addPlugin(syntaxHighlight);
 
+  const slugFilter = eleventyConfig.getFilter('slug');
+  eleventyConfig.addFilter('slug', (input, options = {}) => {
+    return slugFilter(input, { lower: true, strict: true, ...options });
+  });
+
   eleventyConfig.setDataDeepMerge(true);
   eleventyConfig.addPassthroughCopy({ 'src/images': 'images' });
   eleventyConfig.setBrowserSyncConfig({ files: [manifestPath] });

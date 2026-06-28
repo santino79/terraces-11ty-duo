@@ -1,7 +1,7 @@
 {
-  "name": "Alan Hylands",
-  "description": "Alan Hylands is a data analyst and writer from Northern Ireland.",
-  "url": "https://alanhylands.com",
+  "name": "On The Terraces",
+  "description": "Football heritage and nostalgia from around the world.",
+  "url": "https://ontheterraces.co.uk",
   "author": {
     "name": "Alan Hylands",
     "email": "alan@alanhylands.com",
@@ -10,8 +10,8 @@
   "defaultSocialImage": "/images/default-social-image.png",
   "headerLinks": [
     {
-      "text": "Writing",
-      "url": "/writing/",
+      "text": "Articles",
+      "url": "/articles/",
       "external": false
     },
     {
@@ -24,16 +24,6 @@
     {
       "text": "Bluesky",
       "url": "https://bsky.app/profile/alanhylands.com",
-      "external": true
-    },
-    {
-      "text": "GitHub",
-      "url": "https://github.com/santino79/",
-      "external": true
-    },
-    {
-      "text": "LinkedIn",
-      "url": "https://www.linkedin.com/in/alanhylands/",
       "external": true
     }
   ],

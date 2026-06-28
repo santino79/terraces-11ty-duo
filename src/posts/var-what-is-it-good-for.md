@@ -1,8 +1,7 @@
 ---
 title: "VAR. What Is It Good For?"
-description: ''
+description: "Everyone hates VAR, Alan explains why he's changed his mind to join them"
 date: '2019-08-19'
-permalink: posts/{{ title | slug }}/index.html
 tags: ['football']
 ---
 ## So I dub thee Unforgiven.

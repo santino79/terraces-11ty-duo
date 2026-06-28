@@ -1,8 +1,7 @@
 ---
 title: "Where Did It All Go Wrong For Pochettino At Spurs?"
-description: ''
+description: 'It was the end of an era when Mauricio Pchettino left Spurs. What went wrong?'
 date: '2019-11-20'
-permalink: posts/{{ title | slug }}/index.html
 tags: ['football']
 ---
 > “We will try to give everything to make you proud of this football club.” - Mauricio Pochettino at his first Spurs press conference.
